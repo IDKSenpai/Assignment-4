@@ -1,0 +1,13 @@
+body {
+  margin-top: 0;
+}
+
+p {
+  color: black;
+}
+
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

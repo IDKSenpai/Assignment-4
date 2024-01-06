@@ -1,0 +1,59 @@
+.Heading {
+  margin-top: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: rgb(0, 0, 136);
+}
+
+.left > a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+
+.left {
+  float: left;
+  padding: 16px 20px;
+  display: block;
+}
+
+.left:hover {
+  background-color: rgb(1, 137, 1);
+}
+
+.inside {
+  background-color: white;
+  display: none;
+}
+
+.Heading ul li:hover .menu {
+  display: block;
+  position: absolute;
+}
+
+.Heading ul li:hover .menu ul {
+  display: block;
+}
+
+.center > a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+
+.center {
+  padding: 16px 20px 16px 18px;
+}
+
+.inside {
+  margin: 16px -20px;
+}
+
+.center:hover {
+  background-color: rgb(199, 248, 199);
+}

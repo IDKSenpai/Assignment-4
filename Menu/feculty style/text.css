@@ -1,0 +1,199 @@
+.yah,
+.our_term {
+  display: inline;
+  font-size: small;
+}
+
+.our_term {
+  color: rgb(0, 43, 89);
+}
+
+nav {
+  margin-top: 20px;
+  border-top-style: none;
+  border-left-style: ridge;
+  border-right-style: ridge;
+  position: absolute;
+  left: 189px;
+  right: 640px;
+  padding: 2px 2px 2px 20px;
+}
+
+.line {
+  border-bottom-style: double;
+  padding-bottom: 10px;
+  border-color: rgb(210, 210, 210);
+  margin-right: 15px;
+  margin-bottom: 20px;
+}
+
+.a {
+  top: 594px;
+  position: absolute;
+  color: white;
+  padding: 10px 140px 10px 10px;
+}
+
+.s {
+  background-color: black;
+  top: 612px;
+  position: absolute;
+  color: white;
+  padding: 20px 590px 20px 10px;
+  opacity: 0.8;
+}
+
+main {
+  display: inline;
+  position: relative;
+  left: 850px;
+}
+
+.member {
+  font-size: larger;
+  color: rgb(0, 0, 160);
+  display: inline;
+}
+
+.line1 {
+  padding-top: 30px;
+  padding-bottom: 8px;
+  display: inline-block;
+  border-bottom-style: double;
+  border-color: rgb(210, 210, 210);
+  padding-right: 280px;
+}
+
+.members {
+  display: inline;
+}
+
+.name {
+  font-size: larger;
+  position: absolute;
+  right: 252px;
+  padding-top: 20px;
+}
+
+.position {
+  display: inline;
+  position: absolute;
+  left: 100px;
+  top: 66px;
+  color: rgb(0, 0, 162);
+  font-size: large;
+}
+
+.descript {
+  display: inline;
+  position: absolute;
+  left: 100px;
+  right: -400px;
+  top: 90px;
+  color: rgb(100, 100, 100);
+  font-size: large;
+}
+
+.read_more {
+  display: inline;
+  position: relative;
+  left: 180px;
+  top: -24px;
+  font-size: larger;
+  text-decoration: none;
+  font-size: larger;
+}
+
+.line2 {
+  padding-bottom: 8px;
+  display: inline-block;
+  border-bottom-style: solid;
+  border-color: rgb(210, 210, 210);
+  padding-right: 400px;
+  left: -70px;
+  position: relative;
+}
+
+.descript1 {
+  display: inline;
+  position: absolute;
+  left: 110px;
+  right: -400px;
+  top: 253px;
+  color: rgb(100, 100, 100);
+  font-size: large;
+}
+
+.position1 {
+  display: inline;
+  position: absolute;
+  left: 110px;
+  top: 230px;
+  color: rgb(0, 0, 162);
+  font-size: large;
+}
+
+.name1 {
+  font-size: larger;
+  position: absolute;
+  right: 270px;
+  padding-top: 20px;
+  text-decoration: none;
+}
+
+.read_more1 {
+  display: inline;
+  position: relative;
+  left: 198px;
+  top: -24px;
+  font-size: larger;
+  text-decoration: none;
+  font-size: larger;
+}
+
+.descript2 {
+  display: inline;
+  position: absolute;
+  left: 110px;
+  right: -400px;
+  top: 418px;
+  color: rgb(100, 100, 100);
+  font-size: large;
+}
+
+.position2 {
+  display: inline;
+  position: absolute;
+  left: 110px;
+  top: 396px;
+  color: rgb(0, 0, 162);
+  font-size: large;
+}
+
+.fb {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 0, 153);
+  margin: 10px 0 6px;
+}
+
+.fb_link {
+  text-decoration: none;
+  position: relative;
+  top: -230px;
+  color: white;
+  left: 10px;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.fb_link:hover {
+  text-decoration: underline;
+}
+
+.link_fb {
+  text-decoration: none;
+  color: black;
+  position: relative;
+  top: -10px;
+}

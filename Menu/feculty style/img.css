@@ -1,0 +1,75 @@
+.scholarship {
+  width: 600px;
+}
+
+.profile {
+  height: 100px;
+  display: inline;
+  margin-top: 20px;
+}
+
+.name {
+  display: inline;
+  text-decoration: none;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.logo_background {
+  width: 250px;
+  height: 70px;
+}
+
+.bg_cl {
+  background-color: black;
+}
+
+.icon_bg {
+  height: 58px;
+  position: relative;
+  left: 7px;
+  top: -189px;
+}
+
+.white {
+  background-color: rgb(255, 255, 255);
+  width: 60px;
+  height: 60px;
+  position: relative;
+  top: -130px;
+  left: 6px;
+}
+
+.black {
+  background: linear-gradient(180deg, black, white);
+  width: 250px;
+  height: 80px;
+  position: relative;
+  top: -73px;
+  opacity: 0.8;
+}
+
+.fb_logo {
+  height: 25px;
+  padding: 4px 4px;
+}
+
+.fb_bg {
+  background-color: white;
+  width: 130px;
+  height: 32px;
+  position: relative;
+  top: -220px;
+  left: 80px;
+}
+
+.liner {
+  border-right-style: ridge;
+  top: 150px;
+  bottom: -68px;
+  display: inline;
+  position: absolute;
+  left: 1290px;
+}

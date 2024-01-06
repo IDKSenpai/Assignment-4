@@ -1,0 +1,19 @@
+.image1 {
+  height: 300px;
+  width: 400px;
+  object-fit: cover;
+}
+
+.logo {
+  height: 50px;
+}
+
+.banner {
+  display: block;
+  margin-bottom: 0;
+  width: 100%;
+}
+
+body {
+  margin-top: 0;
+}
